@@ -4,8 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>org.ListasPilas</groupId>
     <artifactId>LaboratorioListaPilasAbdi</artifactId>
+=======
+    <groupId>org.example</groupId>
+    <artifactId>ColasPrioridadAbdi</artifactId>
+>>>>>>> 87301cdb4ba35501d1b24791b83824a564879b0d
     <version>1.0-SNAPSHOT</version>
 
     <properties>
